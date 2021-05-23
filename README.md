@@ -1,4 +1,4 @@
-![image-20210523173459056](springMVC.assets/image-20210523173459056.png)1、什么是MVC
+1、什么是MVC
 
 - MVC是模型(Model)、视图(View)、控制器(Controller)的简写，是一种软件设计规范。
 - 是将业务逻辑、数据、显示分离的方法来组织代码。
